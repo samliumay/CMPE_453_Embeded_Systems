@@ -27,8 +27,10 @@ Open the folder as a vault in Obsidian to see the slide images and the folded an
 | L05.2 | [Programming the USART](<lessons/CMPE453 L05.2 - Programming the USART.md>) | 20 |
 | L06.1 | [SPI](<lessons/CMPE453 L06.1 - SPI.md>) | 19 |
 | L06.2 | [I2C and LM75](<lessons/CMPE453 L06.2 - I2C and LM75.md>) | 13 |
+| L07 | [ADC](<lessons/CMPE453 L07 - ADC.md>) | 36 |
+| L08 | [Interrupt handling](<lessons/CMPE453 L08 - Interrupt handling.md>) | 20 |
 
-10 lessons, 170 check questions, 191 slide images.
+12 lessons, 226 check questions, 263 slide images.
 
 ## Folders
 
