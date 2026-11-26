@@ -4,39 +4,41 @@ My lecture notes for CMPE 453 Embedded Systems (TED University, MS, Fall 2026-27
 
 ## How the notes work
 
-Each note in `lessons/` follows one lecture slide by slide:
+Each lecture has its own folder `lessons/lecture_NN/` with the lesson note and its quiz. The lesson note follows the lecture slide by slide:
 
 - the slide image, then my notes on it, with examples and warnings (also about errors on the slides);
 - a folded **check question** for the slide, with the full answer inside (click to open);
 - text marked "(beyond the slides)" is extra explanation that is not on the slides;
 - "Key formulas and terms" and a "Check yourself" set at the end.
 
+The quiz note next to it (`... - quiz`) has one multiple-choice question per check question: four options and a folded answer that explains the right option and each wrong one.
+
 Open the folder as a vault in Obsidian to see the slide images and the folded answers. GitHub shows the text, but not the embedded images.
 
 ## Lessons
 
-| Lecture | Topic | Check questions |
-|---|---|---|
-| L00 | [Course intro and lab kit](<lessons/CMPE453 L00 - Course intro and lab kit.md>) | 31 |
-| L02.1 | [AVR toolchain](<lessons/CMPE453 L02.1 - AVR toolchain.md>) | 19 |
-| L02.2 | [C data types](<lessons/CMPE453 L02.2 - C data types.md>) | 10 |
-| L03.1 | [IO port programming](<lessons/CMPE453 L03.1 - IO port programming.md>) | 12 |
-| L03.2 | [Bitwise operations](<lessons/CMPE453 L03.2 - Bitwise operations.md>) | 16 |
-| L04 | [Digital input and pull-ups](<lessons/CMPE453 L04 - Digital input and pull-ups.md>) | 14 |
-| L05.1 | [UART frame](<lessons/CMPE453 L05.1 - UART frame.md>) | 16 |
-| L05.2 | [Programming the USART](<lessons/CMPE453 L05.2 - Programming the USART.md>) | 20 |
-| L06.1 | [SPI](<lessons/CMPE453 L06.1 - SPI.md>) | 19 |
-| L06.2 | [I2C and LM75](<lessons/CMPE453 L06.2 - I2C and LM75.md>) | 13 |
-| L07 | [ADC](<lessons/CMPE453 L07 - ADC.md>) | 36 |
-| L08 | [Interrupt handling](<lessons/CMPE453 L08 - Interrupt handling.md>) | 20 |
+| Lecture | Topic | Check questions | Multiple choice |
+|---|---|---|---|
+| L00 | [Course intro and lab kit](<lessons/lecture_00/CMPE453 L00 - Course intro and lab kit.md>) | 31 | not yet |
+| L02.1 | [AVR toolchain](<lessons/lecture_02/CMPE453 L02.1 - AVR toolchain.md>) | 19 | not yet |
+| L02.2 | [C data types](<lessons/lecture_02/CMPE453 L02.2 - C data types.md>) | 10 | not yet |
+| L03.1 | [IO port programming](<lessons/lecture_03/CMPE453 L03.1 - IO port programming.md>) | 12 | not yet |
+| L03.2 | [Bitwise operations](<lessons/lecture_03/CMPE453 L03.2 - Bitwise operations.md>) | 16 | not yet |
+| L04 | [Digital input and pull-ups](<lessons/lecture_04/CMPE453 L04 - Digital input and pull-ups.md>) | 14 | not yet |
+| L05.1 | [UART frame](<lessons/lecture_05/CMPE453 L05.1 - UART frame.md>) | 16 | not yet |
+| L05.2 | [Programming the USART](<lessons/lecture_05/CMPE453 L05.2 - Programming the USART.md>) | 20 | not yet |
+| L06.1 | [SPI](<lessons/lecture_06/CMPE453 L06.1 - SPI.md>) | 19 | not yet |
+| L06.2 | [I2C and LM75](<lessons/lecture_06/CMPE453 L06.2 - I2C and LM75.md>) | 13 | not yet |
+| L07 | [ADC](<lessons/lecture_07/CMPE453 L07 - ADC.md>) | 36 | not yet |
+| L08 | [Interrupt handling](<lessons/lecture_08/CMPE453 L08 - Interrupt handling.md>) | 20 | not yet |
 
 12 lessons, 226 check questions, 263 slide images.
 
 ## Folders
 
-- `lessons/`: one note per lecture.
+- `lessons/lecture_NN/`: the lesson note of a lecture and its multiple-choice quiz.
 - `others/slides/`: the slide images the notes embed.
-- `labs/`, `quizzes/`, `other_resources/`: empty for now.
+- `labs/`, `quizzes/` (for the real course quizzes), `other_resources/`: empty for now.
 
 ## Note
 
