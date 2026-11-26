@@ -453,5 +453,6 @@ PORTB = 42;       // writing
 - Full step-by-step notes (PDF, Lecture 0 only): [CMPE453_Lecture_00_Course_Intro.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/lecture_notes/lecture_00/CMPE453_Lecture_00_Course_Intro.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/lecture_notes/lecture_00/CMPE453_Lecture_00_Course_Intro.pdf`
 - Original slides, Lecture 0 (PDF): [Lecture0.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/lectures/lecture_00/Lecture0.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/lectures/lecture_00/Lecture0.pdf`
 - Original slides, Lecture 1 (PDF): [Lecture1.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/lectures/lecture_00/Lecture1.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/lectures/lecture_00/Lecture1.pdf`
+- Quiz: [[CMPE453 L00 - Course intro and lab kit - quiz]]
 
 Slides not embedded: Lecture 0 page 1, Lecture 1 page 1 (title slides).
