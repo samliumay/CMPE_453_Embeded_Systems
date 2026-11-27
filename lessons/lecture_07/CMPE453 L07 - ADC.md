@@ -838,5 +838,6 @@ With 8 bits the value is 0 to 255 and one step is $5/256=19.53$ mV: $V_{in}\appr
 - Previous: [[CMPE453 L06.2 - I2C and LM75]]
 - Sending bytes over the USART (`initUSART`, `transmitByte`): [[CMPE453 L05.2 - Programming the USART]]
 - Original slides (PDF): [Lecture7-ADC.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/lectures/lecture_7/Lecture7-ADC.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/lectures/lecture_7/Lecture7-ADC.pdf`
+- Quiz: [[CMPE453 L07 - ADC - quiz]]
 
 Slides not embedded: 1 (title).
