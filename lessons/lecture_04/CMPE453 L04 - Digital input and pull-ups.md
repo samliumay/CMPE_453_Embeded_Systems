@@ -348,5 +348,6 @@ int main(void)
 - The three port registers: [[CMPE453 L03.1 - IO port programming]]
 - Full step-by-step notes (PDF): [CMPE453_Lecture_04_Digital_Input.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/lecture_notes/lecture_04/CMPE453_Lecture_04_Digital_Input.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/lecture_notes/lecture_04/CMPE453_Lecture_04_Digital_Input.pdf`
 - Original slides (PDF): [Lecture4.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/lectures/lecture_04/Lecture4.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/lectures/lecture_04/Lecture4.pdf`
+- Quiz: [[CMPE453 L04 - Digital input and pull-ups - quiz]]
 
 Slides not embedded: 1 (title).
