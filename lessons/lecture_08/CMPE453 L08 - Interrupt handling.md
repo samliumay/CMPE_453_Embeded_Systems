@@ -738,5 +738,6 @@ Now a change on PD5 starts `ISR(PCINT2_vect)`.
 - Pull-ups and buttons: [[CMPE453 L04 - Digital input and pull-ups]]
 - The USART registers `UCSR0A`, `UCSR0B`: [[CMPE453 L05.2 - Programming the USART]]
 - Original slides (PDF): [Lecture8.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/lectures/lecture_8/Lecture8.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/lectures/lecture_8/Lecture8.pdf`
+- Quiz: [[CMPE453 L08 - Interrupt handling - quiz]]
 
 Slides not embedded: 1 (title).
