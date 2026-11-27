@@ -10,7 +10,7 @@ ATmega328P (Arduino Uno) in AVR C. Exams and lab quizzes ask for register setup,
 ## Sources, in priority order
 
 1. **Lesson note** (my notes, slide by slide, with 20 check questions and their answers): `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/CMPE_453_Embedded_Systems/lessons/lecture_08/CMPE453 L08 - Interrupt handling.md`
-2. **Quiz note:** not written yet for this lesson. Use the check questions of the lesson note.
+2. **Quiz note** (20 multiple-choice questions, one per check question, each with a folded answer that explains every option): `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/CMPE_453_Embedded_Systems/lessons/lecture_08/CMPE453 L08 - Interrupt handling - quiz.md`
 3. **Slide images** (one jpg per slide; the lesson note embeds them as `![[<deck>_pNNN.jpg]]`): `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/CMPE_453_Embedded_Systems/others/slides/cmpe453_lecture_8_lecture8`
 4. **Original slides (PDF):** `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/lectures/lecture_8/Lecture8.pdf`
 

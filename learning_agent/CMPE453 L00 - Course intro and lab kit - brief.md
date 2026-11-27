@@ -10,7 +10,7 @@ ATmega328P (Arduino Uno) in AVR C. Exams and lab quizzes ask for register setup,
 ## Sources, in priority order
 
 1. **Lesson note** (my notes, slide by slide, with 31 check questions and their answers): `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/CMPE_453_Embedded_Systems/lessons/lecture_00/CMPE453 L00 - Course intro and lab kit.md`
-2. **Quiz note:** not written yet for this lesson. Use the check questions of the lesson note.
+2. **Quiz note** (31 multiple-choice questions, one per check question, each with a folded answer that explains every option): `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/CMPE_453_Embedded_Systems/lessons/lecture_00/CMPE453 L00 - Course intro and lab kit - quiz.md`
 3. **Slide images** (one jpg per slide; the lesson note embeds them as `![[<deck>_pNNN.jpg]]`): `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/CMPE_453_Embedded_Systems/others/slides/cmpe453_lecture_00_lecture0`, `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/CMPE_453_Embedded_Systems/others/slides/cmpe453_lecture_00_lecture1`
 4. **Original slides (PDF):** `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/lectures/lecture_00/Lecture0.pdf`
 5. **Full step-by-step notes:** `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/lecture_notes/lecture_00/CMPE453_Lecture_00_Course_Intro.pdf` (LaTeX source: `/home/umaysamli/Desktop/university/ms/semester_2/cmpe_453/lecture_notes/lecture_00/lecture_00.tex`)
